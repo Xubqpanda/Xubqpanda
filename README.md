@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Buqiang Xu</h1>
+<h3 align="center">An undergraduate student majoring in Computer Science and Technology at Northeastern University, China.</h3>
 
-<!--
-**Xubqpanda/Xubqpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 My research interests include Knowledge Editing, Reasoning, LLM, and Information Retrieval.
+- 💼 **I am going to start my master's studies at the School of Software, Zhejiang University, starting in 2026 Fall😘**
+- 📫 You can reach me at: 1227972384@qq.com
+- 📖 Visit my [Personal Website](https://Xubqpanda.github.io) for more details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😊 I’m always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
+  
+
+
+---
+
+
+![Buqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xubqpanda\&rank_icon=github)
