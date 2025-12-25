@@ -9,10 +9,3 @@
 - 📖 Visit my [Personal Website](https://Xubqpanda.github.io) for more details.
 
 😊 I’m always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
-  
-
-
----
-
-
-![Buqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xubqpanda\&rank_icon=github)
