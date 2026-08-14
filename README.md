@@ -2,7 +2,7 @@
 <h3 align="center">A MS student, School of Software Technology, Zhejiang University, China.</h3>
 
 - 👀 My research interests include Knowledge Editing, Reasoning, Continual Learning, and Agentic Memory.
-- 📫 You can reach me at: 1227972384@qq.com
+- 📫 You can reach me at: xubuqiang@zju.edu.cn
 - ✨ Or you can add me on Wechat: Blue18067792208
 - 📖 Visit my [Personal Website](https://Xubqpanda.github.io) for more details.
 
